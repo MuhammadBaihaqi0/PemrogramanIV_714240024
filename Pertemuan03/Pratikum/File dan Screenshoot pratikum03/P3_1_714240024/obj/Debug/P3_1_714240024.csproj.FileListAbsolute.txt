@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\P3_1_714240024\bin\Debug\P3_1_714240024.exe.config
+C:\Users\MSI\source\repos\P3_1_714240024\bin\Debug\P3_1_714240024.exe
+C:\Users\MSI\source\repos\P3_1_714240024\bin\Debug\P3_1_714240024.pdb
+C:\Users\MSI\source\repos\P3_1_714240024\obj\Debug\P3_1_714240024.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\P3_1_714240024\obj\Debug\P3_1_714240024.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\P3_1_714240024\obj\Debug\P3_1_714240024.exe
+C:\Users\MSI\source\repos\P3_1_714240024\obj\Debug\P3_1_714240024.pdb
+C:\Users\MSI\source\repos\P3_1_714240024\obj\Debug\P3_1_714240024.exe.config
