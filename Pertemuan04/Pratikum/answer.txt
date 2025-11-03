@@ -1,0 +1,16 @@
+Bagian I
+
+1.Mengapa myType eror? karena pada class Product_714240024 yang dimana myType di awalin dengan protected, maka dari itu class lain tidak bisa memakai myType
+
+2.Tidak ada hasilnya, mengapa? karena myProduct diambil dari Product_714240024, yang dimana tidak memiliki isi/value(null).
+kalua MyType yaitu mengambil nilai dan menetepakan nilai dari myType, yang dimana myType tidak memiliki value/(null)
+
+3.Outputnya mengeluarkan teks DVD, karena pada class ProductTest_714240024, saya membuat myProduct.MyType="DVD"; yang dimana Ketika saya Console.WriteLine(myProduct.MyType); maka akan menghasilkan DVD
+
+
+Bagian II
+1.Mengapa tidak mengeluarkan nilai? dan apa istilah oop nya? yaitu karena pada mytitle dan mytype tidak memiliki value yaitu null dan istilah oop nya adalah Inheritance (pewarisan)
+
+2.Karena pada new Book_714240024 yang di panggil, maka constructor book_714240024 akan dieksekusi, dan dengan ditambahkannya base(type,title) yaitu untuk memastikan pada constructor pada Prduct_714240024(string type,string title) dipanggil sebelum constructor book_714240024 dijalankan
+
+3.Constructor DVD_714240024 hanya menerima dua parameter yang diteruskan dari luar yaitu string title dan string duration dan pada dvd_714240024 sudah memiliki value mytype didalamnya,kareana mytype sudah ada hardcode nya,jadi ga perlu meneruskan parameter "DVD" saat membuat objek baru
