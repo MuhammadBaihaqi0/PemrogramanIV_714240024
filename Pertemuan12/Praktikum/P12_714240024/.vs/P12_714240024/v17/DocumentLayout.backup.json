@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\formtranksaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\formtranksaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|c:\\users\\msi\\source\\repos\\p12_714240024\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P12_714240024.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\formtranksaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\formtranksaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FAC16F-D962-4977-89C9-EBBDC8D2B701}|P11_714240024.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormNilai.cs*",
+              "RelativeToolTip": "view\\FormNilai.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:00:15.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CekLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\CekLogin.cs",
+              "RelativeDocumentMoniker": "controller\\CekLogin.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\CekLogin.cs",
+              "RelativeToolTip": "controller\\CekLogin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:46:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:43:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "view\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormLogin.cs",
+              "RelativeToolTip": "view\\FormLogin.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:41:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "view\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormLogin.cs [Design]",
+              "RelativeToolTip": "view\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:38:26.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTranksaksi.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormTranksaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTranksaksi.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormTranksaksi.cs*",
+              "RelativeToolTip": "view\\FormTranksaksi.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAASwIUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:35:38.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:35:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs",
+              "RelativeToolTip": "view\\ParentForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwEAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:34:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:34:18.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "view\\StartUp.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\StartUp.cs",
+              "RelativeToolTip": "view\\StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:31:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "view\\StartUp.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\StartUp.cs [Design]",
+              "RelativeToolTip": "view\\StartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:20:43.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormTranksaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormTranksaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTranksaksi.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormTranksaksi.cs [Design]*",
+              "RelativeToolTip": "view\\FormTranksaksi.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:54:34.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P11_714240024_TUGAS\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240024_TUGAS\\view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:38:22.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P11_714240024_TUGAS\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240024_TUGAS\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:47:01.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P11_714240024_TUGAS\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240024_TUGAS\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:34:04.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormNilai.cs",
+              "RelativeToolTip": "view\\FormNilai.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAqwIAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:23:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P11_714240024_TUGAS\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240024_TUGAS\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:03:56.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:53:46.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\view\\ParentForm.cs",
+              "RelativeToolTip": "view\\ParentForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\P12_714240024\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:39:36.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
